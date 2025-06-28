@@ -77,33 +77,6 @@
 - **Data Management**: Export/import configurations and backup settings
 - **데이터 관리**: 설정 내보내기/가져오기 및 백업 설정
 
-## 📸 Screenshots / 스크린샷
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Terminal Interface" width="300" style="border-radius: 8px;" />
-        <br><strong>Terminal Interface</strong><br>터미널 인터페이스
-      </td>
-      <td align="center">
-        <img src="https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=400" alt="AI Assistant" width="300" style="border-radius: 8px;" />
-        <br><strong>AI Assistant</strong><br>AI 어시스턴트
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=400" alt="SSH Connections" width="300" style="border-radius: 8px;" />
-        <br><strong>SSH Connections</strong><br>SSH 연결 관리
-      </td>
-      <td align="center">
-        <img src="https://images.pexels.com/photos/1181316/pexels-photo-1181316.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Settings" width="300" style="border-radius: 8px;" />
-        <br><strong>Settings & Themes</strong><br>설정 및 테마
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🛠️ Technical Stack / 기술 스택
 
 <div align="center">
