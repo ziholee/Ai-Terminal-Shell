@@ -7,7 +7,6 @@
   <p>Combining the functionality of a traditional terminal with intelligent AI assistance powered by Claude AI</p>
   
   <div align="center">
-    <img src="ai-terminal-shell/assets/images/icon.png" alt="AI Terminal Shell" width="80" height="80" />
     <h2>AI 터미널 셸 🚀</h2>
   </div>
   
