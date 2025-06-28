@@ -1,12 +1,33 @@
-# AI Terminal Shell 🚀
-
-A powerful, AI-enhanced terminal application designed specifically for iPad, combining the functionality of a traditional terminal with intelligent AI assistance powered by Claude AI.
+<div align="center">
+  <img src="assets/images/icon.png" alt="AI Terminal Shell Icon" width="120" height="120" />
+  
+  # AI Terminal Shell 🚀
+  
+  <p><strong>A powerful, AI-enhanced terminal application designed specifically for iPad</strong></p>
+  <p>Combining the functionality of a traditional terminal with intelligent AI assistance powered by Claude AI</p>
+  
+  <div align="center">
+    <img src="assets/images/icon.png" alt="AI Terminal Shell" width="80" height="80" />
+    <h2>AI 터미널 셸 🚀</h2>
+  </div>
+  
+  <p><strong>iPad를 위해 특별히 설계된 강력한 AI 강화 터미널 애플리케이션</strong></p>
+  <p>전통적인 터미널의 기능과 Claude AI로 구동되는 지능형 AI 어시스턴트를 결합</p>
+  
+  <br>
+  
+  [![Made with Expo](https://img.shields.io/badge/Made%20with-Expo-000020.svg?style=flat-square&logo=expo&labelColor=000020&logoColor=white)](https://expo.dev)
+  [![React Native](https://img.shields.io/badge/React%20Native-0.79-61DAFB.svg?style=flat-square&logo=react&labelColor=000&logoColor=61DAFB)](https://reactnative.dev)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6.svg?style=flat-square&logo=typescript&labelColor=000&logoColor=3178C6)](https://typescriptlang.org)
+  [![Claude AI](https://img.shields.io/badge/Powered%20by-Claude%20AI-FF6B35.svg?style=flat-square&logo=anthropic&labelColor=000&logoColor=FF6B35)](https://anthropic.com)
+  
+  <br>
+  
+  <img src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Terminal Interface Preview" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
+  
+</div>
 
 ---
-
-# AI 터미널 셸 🚀
-
-iPad를 위해 특별히 설계된 강력한 AI 강화 터미널 애플리케이션으로, 전통적인 터미널의 기능과 Claude AI로 구동되는 지능형 AI 어시스턴트를 결합했습니다.
 
 ## 📱 Features / 기능
 
@@ -56,7 +77,57 @@ iPad를 위해 특별히 설계된 강력한 AI 강화 터미널 애플리케이
 - **Data Management**: Export/import configurations and backup settings
 - **데이터 관리**: 설정 내보내기/가져오기 및 백업 설정
 
+## 📸 Screenshots / 스크린샷
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Terminal Interface" width="300" style="border-radius: 8px;" />
+        <br><strong>Terminal Interface</strong><br>터미널 인터페이스
+      </td>
+      <td align="center">
+        <img src="https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=400" alt="AI Assistant" width="300" style="border-radius: 8px;" />
+        <br><strong>AI Assistant</strong><br>AI 어시스턴트
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=400" alt="SSH Connections" width="300" style="border-radius: 8px;" />
+        <br><strong>SSH Connections</strong><br>SSH 연결 관리
+      </td>
+      <td align="center">
+        <img src="https://images.pexels.com/photos/1181316/pexels-photo-1181316.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Settings" width="300" style="border-radius: 8px;" />
+        <br><strong>Settings & Themes</strong><br>설정 및 테마
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🛠️ Technical Stack / 기술 스택
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="assets/images/icon.png" alt="App Icon" width="50" height="50" />
+        <br><strong>App</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50" />
+        <br><strong>React Native</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://docs.expo.dev/static/images/expo-icon.png" alt="Expo" width="50" height="50" />
+        <br><strong>Expo SDK 52</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50" />
+        <br><strong>TypeScript</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 - **Framework**: React Native with Expo SDK 52
 - **프레임워크**: Expo SDK 52를 사용한 React Native
@@ -230,12 +301,34 @@ Supported languages / 지원 언어:
 The app includes a freemium model with:
 앱은 다음과 같은 프리미엄 모델을 포함합니다:
 
-- **Free Tier**: Basic terminal functionality and limited AI queries
-- **무료 티어**: 기본 터미널 기능 및 제한된 AI 쿼리
-- **Pro Tier**: Unlimited AI assistance and advanced features
-- **프로 티어**: 무제한 AI 지원 및 고급 기능
-- **Enterprise Tier**: Team collaboration and custom integrations
-- **엔터프라이즈 티어**: 팀 협업 및 커스텀 통합
+<div align="center">
+  <table>
+    <tr>
+      <th>Free Tier<br>무료 티어</th>
+      <th>Pro Tier<br>프로 티어</th>
+      <th>Enterprise Tier<br>엔터프라이즈 티어</th>
+    </tr>
+    <tr>
+      <td>
+        • Basic terminal functionality<br>기본 터미널 기능<br>
+        • Limited AI queries<br>제한된 AI 쿼리<br>
+        • Standard themes<br>표준 테마
+      </td>
+      <td>
+        • Unlimited AI assistance<br>무제한 AI 지원<br>
+        • Advanced features<br>고급 기능<br>
+        • Custom themes<br>커스텀 테마<br>
+        • Priority support<br>우선 지원
+      </td>
+      <td>
+        • Team collaboration<br>팀 협업<br>
+        • Custom integrations<br>커스텀 통합<br>
+        • Advanced security<br>고급 보안<br>
+        • 24/7 support<br>24/7 지원
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🤝 Contributing / 기여
 
@@ -263,7 +356,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [Wiki](https://github.com/ziholee/ai-terminal-shell/wiki) / **문서**: [위키](https://github.com/ziholee/ai-terminal-shell/wiki)
 - **Issues**: [GitHub Issues](https://github.com/ziholee/ai-terminal-shell/issues) / **이슈**: [GitHub Issues](https://github.com/ziholee/ai-terminal-shell/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/ziholee/ai-terminal-shell/discussions) / **토론**: [GitHub Discussions](https://github.com/ziholee/ai-terminal-shell/discussions)
-- **Email**: example@gmail.com / **이메일**: example@gmail.com
+- **Email**: ???@gmail.com / **이메일**: ???@gmail.com
 
 ## 🗺️ Roadmap / 로드맵
 
@@ -278,5 +371,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for developers who love the command line**
-**명령줄을 사랑하는 개발자들을 위해 ❤️로 만들어졌습니다**
+<div align="center">
+  <img src="assets/images/icon.png" alt="AI Terminal Shell" width="60" height="60" />
+  <br>
+  <strong>Made with ❤️ for developers who love the command line</strong>
+  <br>
+  <strong>명령줄을 사랑하는 개발자들을 위해 ❤️로 만들어졌습니다</strong>
+</div>
