@@ -343,7 +343,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <img src="assets/images/icon.png" alt="AI Terminal Shell" width="60" height="60" />
+  <img src="ai-terminal-shell/assets/images/icon.png" alt="AI Terminal Shell" width="60" height="60" />
   <br>
   <strong>Made with ❤️ for developers who love the command line</strong>
   <br>
