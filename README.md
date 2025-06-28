@@ -7,6 +7,7 @@
   <p>Combining the functionality of a traditional terminal with intelligent AI assistance powered by Claude AI</p>
   
   <div align="center">
+    <img src="ai-terminal-shell/assets/images/icon.png" alt="AI Terminal Shell" width="80" height="80" />
     <h2>AI 터미널 셸 🚀</h2>
   </div>
   
@@ -21,8 +22,6 @@
   [![Claude AI](https://img.shields.io/badge/Powered%20by-Claude%20AI-FF6B35.svg?style=flat-square&logo=anthropic&labelColor=000&logoColor=FF6B35)](https://anthropic.com)
   
   <br>
-  
-  <img src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Terminal Interface Preview" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
   
 </div>
 
